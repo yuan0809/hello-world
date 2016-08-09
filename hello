@@ -2,3 +2,13 @@ what are you doing?
 you are a bad guy!
 no,no,no...
 I am so sad!
+where will you want to go?
+America.
+why?
+Because I am tired here!
+It is so bad I do the wrong thing!
+int merge()
+{
+  int a,b;
+  double c=(double)(a+b);
+}
