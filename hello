@@ -7,8 +7,11 @@ America.
 why?
 Because I am tired here!
 It is so bad I do the wrong thing!
-int merge()
+int merge()ss
 {
   int a,b;
   double c=(double)(a+b);
 }
+0000
+1111
+222
